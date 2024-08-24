@@ -1,0 +1,6 @@
+name        username    studentnumber     password
+'Tshedza'   'Tshedza1'  'ST10131676'      'Tshedza1'
+'Kateka'    'kat1'      'ST10113467'      'kat123'
+'Kevin'     'kev1'      'ST11564593'      'kev123'
+'Akonaho'   'ak12'      'ST20123506'      'ak123'
+'Junior'    'jk1'       'ST20112790'      'jj123'
